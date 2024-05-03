@@ -1,25 +1,24 @@
 
-  # T
-  [![License](https://img.shields.io/badge/License-BSD_3-blue.svg)](https://opensource.org/licenses/BSD_3)
+  # README Generator
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## GitHub Username
-  https://github.com/T
-  T
+  aime_kgl
   ## Email
-  Email me with any questions: T
+  Email me with any questions: karinagonzalezal@gmail.com
   ## Description
-  T
+  creates readmes 
   * [Install](#install)
   * [Usage](#usage)
   * [License](#license)
   * [Test](#test)
   * [Contribute](#contribute)
   # Install
-  T
+  node index.js
   ## Usage
-  T
+  n/a
   ## License
-  This application is covered by the BSD_3 license.
+  This application is covered by the MIT license.
   ## Test
-  T
+  n/a
   ## Contribute
-  T
+  contact me
