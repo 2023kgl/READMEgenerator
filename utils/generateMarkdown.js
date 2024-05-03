@@ -19,24 +19,24 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {  
    return `
   # ${data.title}
+  ${renderLicenseBadge(data.license)}
   ## GitHub Username
   ${data.username}
   ## Email
-  ${data.email}
+  Email me with any questions: ${data.email}
   ## Description
   ${data.description}
   * [Install](#install)
-  * [usage](#usage)
-  * [license](#license)
-  * [test](#test)
-  * [contribute](#contribute)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Test](#test)
+  * [Contribute](#contribute)
   # Install
   ${data.install}
   ## Usage
   ${data.usage}
   ## License
-  ${data.license}
-  ${renderLicenseBadge(data.license)}
+  This application is covered by the ${data.license} license.
   ## Test
   ${data.test}
   ## Contribute
