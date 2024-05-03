@@ -60,7 +60,7 @@ function writeToFile(fileName, data) {
     fs.writeFile(
         fileName , 
         data,
-        err => err ? console.error(err) : console.log("Generating README"))
+        err => err ? console.error(err) : console.log("README created!"))
 }
 
 
