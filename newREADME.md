@@ -1,24 +1,25 @@
 
-  # p
+  # T
+  [![License](https://img.shields.io/badge/License-BSD_3-blue.svg)](https://opensource.org/licenses/BSD_3)
   ## GitHub Username
-  p
+  https://github.com/T
+  T
   ## Email
-  p
+  Email me with any questions: T
   ## Description
-  p
+  T
   * [Install](#install)
-  * [usage](#usage)
-  * [license](#license)
-  * [test](#test)
-  * [contribute](#contribute)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Test](#test)
+  * [Contribute](#contribute)
   # Install
-  p
+  T
   ## Usage
-  p
+  T
   ## License
-  NONE
-  
+  This application is covered by the BSD_3 license.
   ## Test
-  p
+  T
   ## Contribute
-  p
+  T
